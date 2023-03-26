@@ -1,5 +1,3 @@
-[Website](https://birthday-list-project.web.app/)
-
 # Birthday-list-project
 
 This project is a React application that keeps track of birthdays throughout the year and displays them.
