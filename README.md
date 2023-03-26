@@ -9,6 +9,7 @@ Installation
 4. Run `npm start` to start the application.
 
 Usage
+
 When the application is launched, the main page displays a list of birthdays. To add a new birthday to the list, click the "Add Birthday" button and fill in the necessary information. Birthdays are sorted by month and day, and past birthdays are displayed in red.
 
 Used Libraries
