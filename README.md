@@ -13,12 +13,12 @@ Usage
 When the application is launched, the main page displays a list of birthdays. To add a new birthday to the list, click the "Add Birthday" button and fill in the necessary information. Birthdays are sorted by month and day, and past birthdays are displayed in red.
 
 Used Libraries
-This project uses the following libraries:
 
 1. react-toastify: "^9.1.2"
 2. react-useanimations: "^2.10.0"
 
 Contributing
+
 This project is open source and can be edited by anyone who wants to contribute. To make changes:
 
 1. Fork this project to your account.
